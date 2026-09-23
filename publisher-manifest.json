@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ab981fb197d3896447e6d78f",
+  "owner": "cevqvv",
+  "repo": "page-52cd85d7fa32bf8f19555439",
+  "title": "柯洛斯(CrossWall)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52cd85d7fa32bf8f19555439",
+      "a": "柯洛斯(CrossWall)",
+      "b": "机场官网线路发布页",
+      "entity": "柯洛斯(CrossWall)",
+      "brand": "柯洛斯(CrossWall)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "07234bfcf60935c8a2ef39c6deac8489ff53226e6b6297d319442642ca930fe8",
+      "content": {
+        "primary_entity": "柯洛斯(CrossWall)",
+        "keyword1": "柯洛斯(CrossWall)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，以三档订阅覆盖从轻度到团队级的使用需求。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并配有 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付费可节省两个月费用，适合长期稳定使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "柯洛斯(CrossWall)提供基础版、旗舰版与团队版三档订阅，分别对应 100GB、300GB 和 1000GB 月流量，设备数从 3 台到 20 台逐级提升。根据日常使用强度与在线设备数量选择合适档位，再按客户端文档导入订阅即可。",
+          "AI_VISUAL_TITLE": "柯洛斯订阅套餐速览",
+          "AI_HIGHLIGHT_1": "三档月流量：100GB 起",
+          "AI_HIGHLIGHT_2": "设备数 3 / 5 / 20 可选",
+          "AI_HIGHLIGHT_3": "年付省两月，长用更划算",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个角度挑选套餐，能减少反复调整的次数。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻度浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 适合多设备高频使用。",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TEXT_2": "同时在线设备数由套餐决定，3 台、5 台、20 台三档，按家庭或团队规模选择可避免超出限制。",
+          "AI_FEATURE_TITLE_3": "考虑订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用能降低平均月成本。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，导入订阅前先确认系统版本与网络环境，再参考客户端自带的配置说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路上逐步升级，按实际用量和在线设备数对号入座即可。旗舰版提供 IPLC 专线与原生流媒体解锁，团队版增加高带宽节点和企业定制路由。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，按顺序操作可减少配置过程中的反复。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量需求与同时在线设备数，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本和网络环境的要求，确保设备满足条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅信息，完成后即可在设备上使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "柯洛斯基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备，并增加 IPLC 专线和原生流媒体解锁。设备多或流量需求大时选旗舰版更合适。",
+          "AI_FAQ_QUESTION_2": "年付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，相当于按十个月计价，比月付节省约两个月费用，长期使用推荐年付。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量、支持 20 台设备，并有 VIP 高带宽节点和企业定制路由，适合多人共用或设备数量较多的团队环境。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "先选定对应设备的客户端，再参照该客户端的文档导入订阅信息。不同客户端步骤略有差异，按文档提示逐步操作即可完成。",
+          "AI_FAQ_QUESTION_5": "超出设备数量会怎样？",
+          "AI_FAQ_ANSWER_5": "同时在线设备数由套餐上限决定，超出后新设备可能无法连接。可根据常用设备数量选择更高档位，或先断开不用的设备再连接。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺手",
+          "AI_CLOSING_TEXT": "确认流量与设备需求后，按客户端文档导入订阅，即可开始使用柯洛斯(CrossWall)。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "d1-pc.com",
+    "host": "d1-pc.com"
+  },
+  "file_hashes": {
+    "index.html": "d78e7ce73ed1a8977f4ce82c6ff4bbf05808152cd0eaf87a9b72a7dabbadde8c",
+    "sitemap.xml": "9ccadce170acad439637744efabc3415ccfc74587e4e7b7fa213cdac6e17366b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8fcca61bd4be998cbd43e5414f7a4f9c80f0eaeec2424799ea04e8e6c1a0c2f0",
+    "robots.txt": "7894a87f4892b9cdf20116c048e8d581d31b22683389784c30411a3016822067",
+    "a91d0d4d42e93a4637c91d6bea319906.txt": "4d97d51aa931a4c2fa7e8b0e303eb70402e6db0aa7cfa8dc6dab7b1e1a5c84b0"
+  },
+  "revision": "05d39ce97ae714c1459aa1d6d69a1003d94410244837bd10b29361377033ff76"
+}
